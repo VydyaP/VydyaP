@@ -14,6 +14,7 @@ I build AI-powered tools and full-stack web apps with **Python** and **React**: 
 
 | Project | What it does | Stack |
 |---|---|---|
+| [TicketSense](https://github.com/VydyaP/ticketsense) · [live demo](https://ticketsense-opal.vercel.app) | IT help-desk app that predicts each ticket's category and priority with an NLP model trained on 48k real support tickets, with human corrections stored for retraining | Python, FastAPI, PostgreSQL, scikit-learn, React, TypeScript, Docker, CI/CD |
 | [invoice-to-excel](https://github.com/VydyaP/invoice-to-excel) | Reads supplier bills (PDFs and phone photos) with an LLM and outputs a checked Excel sheet, flagging anything a person should review | Python, Claude API, Streamlit, pytest, CI |
 | [Prospect Scan](https://github.com/VydyaP/salespitch_model) | AI research tool for sales teams: profiles a company, finds gaps and writes a pitch where every claim links to its source | Python, Flask, PostgreSQL, Next.js, LLM APIs |
 | [sales-report-automator](https://github.com/VydyaP/sales-report-automator) · [live demo](https://sales-report-automator-tb29qzqz9fwzsj2dzymqck.streamlit.app/) | Cleans messy sales exports into a formatted Excel report and a one-page PDF | Python, pandas, Streamlit |
